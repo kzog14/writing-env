@@ -1,0 +1,17 @@
+{
+  "plugins": {},
+  "filters": {
+    "allowlist": {
+      "allow": [
+        "ignored-word",
+        "ごはんをたべれる",
+        "/\\d{4}-\\d{2}-\\d{2}/",
+        "/===IGNORE===[\\s\\S]*?===\/IGNORE===/m"
+      ]
+    }
+  },
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "preset-jtf-style": true
+  }
+}

@@ -1,7 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {},
-  "postCreateCommand": "nvm use 18",
   "customizations": {
     "vscode": {
       "extensions": [
