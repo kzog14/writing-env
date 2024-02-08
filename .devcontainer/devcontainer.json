@@ -1,0 +1,26 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "postCreateCommand": "nvm use 18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "8amjp.charactercount",
+        "cocopon.iceberg-theme",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "MS-CEINTL.vscode-language-pack-ja",
+        "PKief.material-icon-theme",
+        "shd101wyy.markdown-preview-enhanced",
+        "taichi.vscode-textlint",
+        "yzhang.markdown-all-in-one"
+      ],
+      "settings": {
+        "editor.fontSize": 14,
+        "terminal.integrated.fontSize": 14,
+        "workbench.colorTheme": "Iceberg Light",
+        "workbench.iconTheme": "material-icon-theme"
+      }
+    }
+  }
+}
