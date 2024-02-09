@@ -19,6 +19,7 @@
 - Live Share（ペアプログラミング）
 - Markdown All in One（便利機能）
 - Markdown Preview Enhanced（プレビュー）
+- Markdown Table（マークダウンのテーブル整形）
 - material-icon-theme（アイコン）
 - markdownlint（リンター）
 - vscode-textlint（文章校正）
