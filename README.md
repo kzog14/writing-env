@@ -16,6 +16,7 @@
 - GitLens — Git supercharged（Git機能拡張）
 - Iceberg Theme（カラーテーマ）
 - Japanese Language Pack for VS Code（日本語言語パック）
+- Live Share（ペアプログラミング）
 - Markdown All in One（便利機能）
 - Markdown Preview Enhanced（プレビュー）
 - material-icon-theme（アイコン）
