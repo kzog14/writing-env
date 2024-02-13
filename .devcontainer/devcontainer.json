@@ -19,6 +19,7 @@
       "settings": {
         "editor.fontSize": 14,
         "editor.wordWrap": "bounded",
+        "files.autoSave": "off",
         "terminal.integrated.fontSize": 14,
         "workbench.colorTheme": "Iceberg Light",
         "workbench.iconTheme": "material-icon-theme"
